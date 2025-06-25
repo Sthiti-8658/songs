@@ -42,3 +42,4 @@ public class Song {
     public void setArtist(String artist) { this.artist = artist; }
     public void setLyrics(String lyrics) { this.lyrics = lyrics; }
 }
+// adding new comment
